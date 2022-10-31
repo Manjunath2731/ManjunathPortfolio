@@ -64,7 +64,7 @@ export const Banner = () => {
                   }
                 >
                   <span className="tagline" style={{ borderRadius: "15px" }}>
-                    Welcome to my Portfolio
+                    Welcome to my Ass
                   </span>
                   <h1>
                     {`Manjunath`}{" "}
