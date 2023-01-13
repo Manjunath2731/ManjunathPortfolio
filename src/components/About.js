@@ -33,6 +33,7 @@ export const About = () => {
               </p>
               <span className="button-color">
                 <a href="https://drive.google.com/file/d/1Y7xHj5fGm5Fwlc_EyXNtJuA52pc1XIY1/view?usp=drivesdk" target="_blank"><button className="vvd1">Resume</button></a>
+              <a href="https://drive.google.com/file/d/1zhlz1p_DgDaZrMLnR9-LxTHoiZ34sy5R/view?usp=sharing" target="_blank"><button className="vvd1">Certificate</button></a>
               </span>
             </div>
           </div>
