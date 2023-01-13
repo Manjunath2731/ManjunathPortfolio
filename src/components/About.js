@@ -32,9 +32,7 @@ export const About = () => {
                 they were unqualified to solve until they actually did it
               </p>
               <span className="button-color">
-                <a href="https://drive.google.com/file/d/1V4CDmu2vfaAk7crRzdfcuKq37yDu0gX1/view?usp=sharing" target="_blank"><button className="vvd1">Resume</button></a>
-                <a href="https://drive.google.com/file/d/1VqsN_0B_FnrlxwBrYMAg0VwkJymHn_6D/view?usp=drivesdk" target="_blank"><button className="vvd1">Manual</button></a>
-                <button className="vvd1">Achievements</button>
+                <a href="https://drive.google.com/file/d/1Y7xHj5fGm5Fwlc_EyXNtJuA52pc1XIY1/view?usp=drivesdk" target="_blank"><button className="vvd1">Resume</button></a>
               </span>
             </div>
           </div>
